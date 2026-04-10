@@ -26,7 +26,7 @@ def download_model(url, path):
     print("Download complete!")
 
 # 👉 PUT YOUR GOOGLE DRIVE DIRECT LINK HERE
-MODEL_URL = "PASTE_YOUR_MODEL_LINK_HERE"
+MODEL_URL = "https://drive.google.com/file/d/1aUG6XNP2zlFdzk3lZPjb2NWjdtMnmnch/view?usp=sharing"
 
 # Ensure model exists
 if not os.path.exists(MODEL_PATH):
